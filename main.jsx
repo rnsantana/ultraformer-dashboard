@@ -1,0 +1,1 @@
+// Aqui estará o React App. O código principal está na pasta src.
